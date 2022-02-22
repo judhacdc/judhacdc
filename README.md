@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Judha Maygustya !</h1>
 - 📫 How to reach me **judha.maygustya168@gmail.com**
-
-<p align ="left"> <img srch="https://simplus.id/images/coding.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <img align="right" alt="coding" width="400" src="https://simplus.id/images/coding.gif">
 <a href="https://linkedin.com/in/judha maygustya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="judha maygustya" height="30" width="40" /></a>
 <a href="https://instagram.com/jxdhaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jxdhaa" height="30" width="40" /></a>
 </p>
