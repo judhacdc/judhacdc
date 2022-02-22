@@ -54,7 +54,7 @@
 
 <p align="center">
   <a href="https://facebook.com/judhacdc"><img src="https://img.shields.io/badge/-judhacdc-660066?style=flat&logo=Facebook&logoColor=white"/></a>
-  <a href="mailto:judhacdc@outlook.com"><img src="https://img.shields.io/badge/-may.judhacdc@outlook.com-cc0099?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/judhacdc"><img src="https://img.shields.io/badge/-@judhacdc-a85488?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="mailto:judha.maygustya168@gmail.com"><img src="https://img.shields.io/badge/-judha.maygustya168@gmail.com-cc0099?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/jxdhaa"><img src="https://img.shields.io/badge/-@jxdhaa-a85488?style=flat&logo=Instagram&logoColor=white"/></a>
   <a href="https://twitter.com/judhacdc"><img src="https://img.shields.io/badge/-@judhacdc-a85488?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
