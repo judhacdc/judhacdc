@@ -9,8 +9,8 @@
 <h1 align="center"><img width="60" src="https://c.tenor.com/Weyin7lqYhsAAAAj/rainbowcat.gif"> Hi 👋, I'm Judha Maygustya <img width="60" src="https://c.tenor.com/Weyin7lqYhsAAAAj/rainbowcat.gif">  </h1> -->
 
 
-<!-- ![](https://komarev.com/ghpvc/?username=judhacdc&color=blue)<br> -->
-![](https://komarev.com/ghpvc/?username=Ilham-sinatrio20&color=red)<br>
+![](https://komarev.com/ghpvc/?username=Fariszz&color=blue)<br>
+<!-- ![](https://komarev.com/ghpvc/?username=Ilham-sinatrio20&color=red)<br> -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/judhacdc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="judhacdc" height="30" width="40" /></a>
