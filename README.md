@@ -1,6 +1,6 @@
 <h1 align=center><img width="60" src="https://c.tenor.com/Weyin7lqYhsAAAAj/rainbowcat.gif">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=d467a7&size=30&lines=Hello+World+!+It's+Judha+Maygustya+!;And+I'm+an+Indonesian+:D;ジュダ+メイガスティある+!!">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=d467a7&size=60&lines=Hello+World+!+It's+Judha+Maygustya+!;And+I'm+an+Indonesian+:D;ジュダ+メイガスティある+!!">
   </a><img width="60" src="https://c.tenor.com/Weyin7lqYhsAAAAj/rainbowcat.gif">
   </h1>
 
