@@ -19,7 +19,7 @@
 <a href="https://codepen.io/judhacdc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="judhacdc" height="30" width="40" /></a>
 <a href="https://twitter.com/judhacdc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="judhacdc" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/judha-maygustya-516a85203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="judha maygustya" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/judhacdc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="judhacdc" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18319581/judhacdc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="judhacdc" height="30" width="40" /></a>
 <a href="https://instagram.com/jxdhaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jxdhaa" height="30" width="40" /></a>
 </p>
 
