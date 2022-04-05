@@ -28,9 +28,8 @@
 
 
 
-<!-- <img align="right" alt="coding" width="400" src="https://simplus.id/images/coding.gif">
- -->
-<img align="right" alt="coding" width="400" src="https://drive.google.com/file/d/1SPbTRnpL-kc7CkLqpkwvc5wBq9JwChud/view?usp=sharing">
+<img align="right" alt="coding" width="400" src="https://simplus.id/images/coding.gif">
+
 
 <br/>
 <p align="left">
