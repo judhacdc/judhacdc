@@ -28,9 +28,9 @@
 
 
 
-<img align="right" alt="coding" width="400" src="https://simplus.id/images/coding.gif">
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=judhacdc&show_icons=true&locale=en&layout=compact" alt="judhacdc" /></p> -->
-
+<!-- <img align="right" alt="coding" width="400" src="https://simplus.id/images/coding.gif">
+ -->
+<img align="right" alt="coding" width="400" src="https://drive.google.com/file/d/1SPbTRnpL-kc7CkLqpkwvc5wBq9JwChud/view?usp=sharing">
 
 <br/>
 <p align="left">
