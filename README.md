@@ -6,7 +6,7 @@
 
 <h1 align=center><img width="60" src="https://c.tenor.com/Weyin7lqYhsAAAAj/rainbowcat.gif">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=d467a7&size=25&lines=Hello+World+!+It's+Judha+Maygustya+!">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=#FF3333&size=25&lines=Hello+World+!+It's+Judha+Maygustya+!">
   </a><img width="60" src="https://c.tenor.com/Weyin7lqYhsAAAAj/rainbowcat.gif">
   </h1>
 
@@ -44,8 +44,8 @@
 
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/-HTML-660066?style=for-the-badge&logo=html5&logoColor=e6dd79&labelColor=000000">
-  <img src="https://img.shields.io/badge/-CSS-660066?style=for-the-badge&logo=css3&logoColor=e6dd79&labelColor=000000">
+  <img src="https://img.shields.io/badge/-HTML-660066?style=for-the-badge&logo=html5&logoColor=e6dd79&labelColor=282828">
+  <img src="https://img.shields.io/badge/-CSS-660066?style=for-the-badge&logo=css3&logoColor=e6dd79&labelColor=282828">
   <img src="https://img.shields.io/badge/-Javascript-cc0099?style=for-the-badge&logo=javascript&logoColor=e6dd79&labelColor=282828">
   <img src="https://img.shields.io/badge/-JQuery-cc0099?style=for-the-badge&logo=jquery&logoColor=e6dd79&labelColor=282828">
   <img src="https://img.shields.io/badge/-PHP-cc0099?style=for-the-badge&logo=php&logoColor=e6dd79&labelColor=282828">
