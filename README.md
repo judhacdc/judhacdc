@@ -16,10 +16,15 @@
 ![](https://komarev.com/ghpvc/?username=judhacdc&color=red)<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
 <a href="https://codepen.io/judhacdc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="judhacdc" height="30" width="40" /></a>
+
 <a href="https://twitter.com/judhacdc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="judhacdc" height="30" width="40" /></a>
+
 <a href="https://www.linkedin.com/in/judha-maygustya-516a85203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="judha maygustya" height="30" width="40" /></a>
+
 <a href="https://stackoverflow.com/users/18319581/judhacdc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="judhacdc" height="30" width="40" /></a>
+
 <a href="https://instagram.com/jxdhaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jxdhaa" height="30" width="40" /></a>
 </p>
 
@@ -44,8 +49,8 @@
 
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/-HTML-660066?style=for-the-badge&logo=html5&logoColor=e6dd79&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-660066?style=for-the-badge&logo=css3&logoColor=e6dd79&labelColor=282828">
+  <img src="https://img.shields.io/badge/-HTML-660066?style=for-the-badge&logo=html5&logoColor=e6dd79&labelColor=000000">
+  <img src="https://img.shields.io/badge/-CSS-660066?style=for-the-badge&logo=css3&logoColor=e6dd79&labelColor=000000">
   <img src="https://img.shields.io/badge/-Javascript-cc0099?style=for-the-badge&logo=javascript&logoColor=e6dd79&labelColor=282828">
   <img src="https://img.shields.io/badge/-JQuery-cc0099?style=for-the-badge&logo=jquery&logoColor=e6dd79&labelColor=282828">
   <img src="https://img.shields.io/badge/-PHP-cc0099?style=for-the-badge&logo=php&logoColor=e6dd79&labelColor=282828">
