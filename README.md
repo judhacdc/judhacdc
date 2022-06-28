@@ -1,9 +1,3 @@
-<!-- <h1 align=center><img width="60" src="https://c.tenor.com/Weyin7lqYhsAAAAj/rainbowcat.gif">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=e6dd79&size=25&lines=Hello+World+!+It's+Judha+Maygustya+!;And+I'm+an+Indonesian+:D;ジュダ+メイガスティある+!!">
-  </a><img width="60" src="https://c.tenor.com/Weyin7lqYhsAAAAj/rainbowcat.gif">
-  </h1> -->
-
 <h1 align=center><img width="60" src="https://c.tenor.com/Weyin7lqYhsAAAAj/rainbowcat.gif">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=BD0025&size=25&lines=Hello+World+!+It's+Judha+Maygustya+!">
@@ -40,7 +34,7 @@
 </p>
 <br>
 
-[![judhacdc' Activity Graph](https://activity-graph.herokuapp.com/graph?username=judhacdc&custom_title=judhacdc's%20Contribution%20Graph&theme=omni&bg_color=191622&hide_border=true&line=710016&point=BD0025)](https://judhacdc.dev)
+[![judhacdc' Activity Graph](https://activity-graph.herokuapp.com/graph?username=judhacdc&custom_title=judhacdc's%20Contribution%20Graph&theme=omni&bg_color=38000b&hide_border=true&line=710016&point=BD0025)](https://judhacdc.dev)
 
 <p>
 <div align="center">
