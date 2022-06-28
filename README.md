@@ -58,8 +58,8 @@
 ## Get in Touch with Me
 
 <p align="center">
-  <a href="https://facebook.com/judhacdc"><img src="https://img.shields.io/badge/-judhacdc-660066?style=flat&logo=Facebook&logoColor=white"/></a>
-  <a href="mailto:judha.maygustya168@gmail.com"><img src="https://img.shields.io/badge/-judha.maygustya168@gmail.com-cc0099?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/jxdhaa"><img src="https://img.shields.io/badge/-@jxdhaa-a85488?style=flat&logo=Instagram&logoColor=white"/></a>
-  <a href="https://twitter.com/judhacdc"><img src="https://img.shields.io/badge/-@judhacdc-a85488?style=flat&logo=Twitter&logoColor=white"/></a>
+  <a href="https://facebook.com/judhacdc"><img src="https://img.shields.io/badge/-judhacdc-bd0025?style=flat&logo=Facebook&logoColor=white"/></a>
+  <a href="mailto:judha.maygustya168@gmail.com"><img src="https://img.shields.io/badge/-judha.maygustya168@gmail.com-bd0025?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/jxdhaa"><img src="https://img.shields.io/badge/-@jxdhaa-aa0021?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="https://twitter.com/judhacdc"><img src="https://img.shields.io/badge/-@judhacdc-aa0021?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
