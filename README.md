@@ -44,13 +44,13 @@
 
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/-HTML-660066?style=for-the-badge&logo=html5&logoColor=e6dd79&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-660066?style=for-the-badge&logo=css3&logoColor=e6dd79&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Javascript-cc0099?style=for-the-badge&logo=javascript&logoColor=e6dd79&labelColor=282828">
-  <img src="https://img.shields.io/badge/-JQuery-cc0099?style=for-the-badge&logo=jquery&logoColor=e6dd79&labelColor=282828">
-  <img src="https://img.shields.io/badge/-PHP-cc0099?style=for-the-badge&logo=php&logoColor=e6dd79&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Python-a85488?style=for-the-badge&logo=python&logoColor=e6dd79&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Java-a85488?style=for-the-badge&logo=java&logoColor=e6dd79&labelColor=282828">
+  <img src="https://img.shields.io/badge/-HTML-660066?style=for-the-badge&logo=html5&logoColor=FF0909&labelColor=282828">
+  <img src="https://img.shields.io/badge/-CSS-660066?style=for-the-badge&logo=css3&logoColor=FF0909&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Javascript-cc0099?style=for-the-badge&logo=javascript&logoColor=FF0909&labelColor=282828">
+  <img src="https://img.shields.io/badge/-JQuery-cc0099?style=for-the-badge&logo=jquery&logoColor=FF0909&labelColor=282828">
+  <img src="https://img.shields.io/badge/-PHP-cc0099?style=for-the-badge&logo=php&logoColor=FF0909&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Python-a85488?style=for-the-badge&logo=python&logoColor=FF0909&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Java-a85488?style=for-the-badge&logo=java&logoColor=FF0909&labelColor=282828">
 </div>
 </p>
  <br>
