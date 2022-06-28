@@ -40,7 +40,7 @@
 </p>
 <br>
 
-[![judhacdc' Activity Graph](https://activity-graph.herokuapp.com/graph?username=judhacdc&custom_title=judhacdc's%20Contribution%20Graph&theme=omni&bg_color=191622&hide_border=true&line=e6dd79&point=BD0025)](https://judhacdc.dev)
+[![judhacdc' Activity Graph](https://activity-graph.herokuapp.com/graph?username=judhacdc&custom_title=judhacdc's%20Contribution%20Graph&theme=omni&bg_color=191622&hide_border=true&line=d7667c&point=BD0025)](https://judhacdc.dev)
 
 <p>
 <div align="center">
