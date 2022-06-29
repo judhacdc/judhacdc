@@ -61,7 +61,7 @@
   <a href="https://twitter.com/judhacdc"><img src="https://img.shields.io/badge/-@judhacdc-aa0021?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
 
-   <a><h2>Trophies</h2></a>
+<!--    <a><h2>Trophies</h2></a>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=aeristhy&row=4&theme=onedark&no-frame=true"/>
-    </a> 
+    </a>  -->
