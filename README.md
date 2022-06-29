@@ -26,14 +26,7 @@
 </p>
 <br>
 
-## Get in Touch with Me
-
-<p align="center">
-  <a href="https://facebook.com/may.judhacdc"><img src="https://img.shields.io/badge/-judhacdc-660066?style=flat&logo=Facebook&logoColor=white"/></a>
-  <a href="mailto:judhacdc@outlook.com"><img src="https://img.shields.io/badge/-may.judhacdc@outlook.com-cc0099?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/judhacdc"><img src="https://img.shields.io/badge/-@judhacdc-a85488?style=flat&logo=Instagram&logoColor=white"/></a>
-  <a href="https://twitter.com/judhacdc"><img src="https://img.shields.io/badge/-@judhacdc-a85488?style=flat&logo=Twitter&logoColor=white"/></a>
-</p>
+![snake svg](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg)
 
 [![judhacdc' Activity Graph](https://activity-graph.herokuapp.com/graph?username=judhacdc&custom_title=judhacdc's%20Contribution%20Graph&theme=omni&bg_color=191622&hide_border=true&line=e6dd79&point=d467a7)](https://judhacdc.dev)
 
@@ -49,7 +42,14 @@
 </div>
 </p>
  <br>
- 
+ ## Get in Touch with Me
+
+<p align="center">
+  <a href="https://facebook.com/may.judhacdc"><img src="https://img.shields.io/badge/-judhacdc-660066?style=flat&logo=Facebook&logoColor=white"/></a>
+  <a href="mailto:judhacdc@outlook.com"><img src="https://img.shields.io/badge/-may.judhacdc@outlook.com-cc0099?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/judhacdc"><img src="https://img.shields.io/badge/-@judhacdc-a85488?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="https://twitter.com/judhacdc"><img src="https://img.shields.io/badge/-@judhacdc-a85488?style=flat&logo=Twitter&logoColor=white"/></a>
+</p>
 
 
-![snake svg](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg)
+
